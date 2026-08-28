@@ -10,3 +10,5 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 ## Miembros
 
 1. **Lex Luthor** - Fundador y estratega principal. Experto en manipulación y control de recursos.
+
+2. **Joker** - Maestro del caos y la anarquía. Su creatividad no tiene límites.
