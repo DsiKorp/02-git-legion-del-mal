@@ -17,6 +17,14 @@ Probar flujos de trabajo de Git con commits atómicos, mensajes claros y una bas
 
 5.
 
+
+6.  
+
+
+7..
+
+
+
 ---
 
 *Hecho para pruebas.* 🚀
