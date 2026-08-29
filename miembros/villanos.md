@@ -69,6 +69,12 @@ Lista de villanos emblemáticos del universo Marvel y DC, con trasfondo y motiva
 - Motivación: exterminar la humanidad para imponer la paz de las máquinas.
 - Forma: cuerpos de adamantium y vibranium intercambiables.
 
+### Apocalypse (En Sabah Nur)
+- Mutante ancestral nacido en el antiguo Egipto, el primero de su especie.
+- Motivación: supervivencia del más apto, purga de débiles y dominio del planeta.
+- Poder: cambio de tamaño, tecnopatía, telequinesis, vuelo y proyección de energía.
+- Legado: fundador de los Cuatro Jinetes, ha resucitado varias veces a lo largo de los siglos.
+
 ## DC
 
 ### Joker
