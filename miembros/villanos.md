@@ -134,7 +134,7 @@ Lista de villanos emblemáticos del universo Marvel y DC, con trasfondo y motiva
 ### La Legión del Mal
 - Equipos donde los villanos se agrupan: Sociedad de la Injusticia, Latveria, Apokolips, Hydra.
 
-## Curiosidades
+## Curiosidades 1
 
 - Magneto y Charles Xavier alguna vez fueron amigos cercanos.
 - Lex Luthor ha sido miembro de la Justice League en alguna línea temporal.
