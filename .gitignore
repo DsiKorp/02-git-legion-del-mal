@@ -2,5 +2,6 @@ codigos-lanzamiento.env
 .env
 dist/
 node_modules/
+# ! niega la ignore
 logs/server*.log
 !logs/server.log
