@@ -141,3 +141,11 @@ Lista de villanos emblemáticos del universo Marvel y DC, con trasfondo y motiva
 - El Joker ha derrotado a Batman tantas veces como ha perdido.
 - Thanos respeta a Galactus por encima de todos los demás seres.
 - Norman Osborn dirigió a los Vengadores Oscuros tras Civil War.
+
+## Curiosidades 2
+
+- Magneto y Charles Xavier alguna vez fueron amigos cercanos.
+- Lex Luthor ha sido miembro de la Justice League en alguna línea temporal.
+- El Joker ha derrotado a Batman tantas veces como ha perdido.
+- Thanos respeta a Galactus por encima de todos los demás seres.
+- Norman Osborn dirigió a los Vengadores Oscuros tras Civil War.
