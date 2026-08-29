@@ -72,3 +72,10 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 - _"Yo me encargo de Batman. Siempre me encargo de Batman."_ — Joker
 - _"Si Joker arruina otra misión, propongo que lo lancemos al volcán."_ — Magneto
 - _"Denegado. Por ahora."_ — Lex Luthor
+
+## Notas del Consejo 2
+
+- _"El virus debe pasar desapercibido mínimo 72 horas. Si JARVIS lo detecta antes, todo falla."_ — Brainiac
+- _"Yo me encargo de Batman. Siempre me encargo de Batman."_ — Joker
+- _"Si Joker arruina otra misión, propongo que lo lancemos al volcán."_ — Magneto
+- _"Denegado. Por ahora."_ — Lex Luthor
