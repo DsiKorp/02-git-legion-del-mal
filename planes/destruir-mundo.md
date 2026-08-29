@@ -1,30 +1,11 @@
-# 🌍 Guardando el mundo
+## Destruir el mundo
 
-Este archivo guarda al mundo, literalmente o metafóricamente.
+Estos son los planes para destruir el mundo:
 
-## Objetivo del archivo
+1. Crear un ejército de robots autónomos que puedan infiltrarse en todas las ciudades del mundo y tomar el control de la infraestructura crítica.
+2. Desarrollar un virus informático altamente contagioso que pueda propagarse a través de internet y desactivar todos los sistemas de seguridad y comunicación.
+3. Construir un arma de destrucción masiva que pueda ser lanzada desde el espacio
 
-Probar flujos de trabajo de Git con commits atómicos, mensajes claros y una base limpia.
-
-### ¿Qué aprenderemos?
-
-- Cómo crear archivos desde cero
-- Escribir mensajes de commit concisos
-- Realizar cambios controlados
-
-
-4.
-
-5.
-
-
-6.  
-
-
-7..
-
-
-
----
-
-*Hecho para pruebas.* 🚀
+4. Manipular el clima global para causar desastres naturales a gran escala, como huracanes, terremotos y tsunamis.
+5. Controlar los recursos esenciales como el agua y los alimentos, creando escasez y caos en la población mundial.
+6. Difundir propaganda y desinformación para sembrar el miedo y la desconfianza entre las naciones, debilitando la cooperación internacional.
