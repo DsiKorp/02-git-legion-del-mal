@@ -66,6 +66,8 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 - **Ruta de emergencia:** Magneto extrae al equipo levitando el vehículo de escape por encima del tráfico
 - **Punto de reunión:** Fortaleza Prohibida, 48 horas después de la operación. Coordenadas en los códigos de lanzamiento, NO en este archivo.
 
+- Tenemos que hacer un plan b.
+
 ## Notas del Consejo
 
 - _"El virus debe pasar desapercibido mínimo 72 horas. Si JARVIS lo detecta antes, todo falla."_ — Brainiac
@@ -76,3 +78,9 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 ## Conclusión
 
 Es perfectamente claro que esta operación requiere coordinación extrema y precisión. Cada miembro del equipo debe cumplir su rol sin desviarse del plan. La seguridad del Banco Mundial es formidable, pero con la combinación de habilidades de la Legión, el éxito es alcanzable.
+
+________________________________________________________
+
+________________________________________________________
+
+
