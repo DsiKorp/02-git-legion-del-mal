@@ -69,6 +69,12 @@ Lista de villanos emblemáticos del universo Marvel y DC, con trasfondo y motiva
 - Motivación: exterminar la humanidad para imponer la paz de las máquinas.
 - Forma: cuerpos de adamantium y vibranium intercambiables.
 
+### Apocalypse (En Sabah Nur)
+- Mutante ancestral nacido en el antiguo Egipto, el primero de su especie.
+- Motivación: supervivencia del más apto, purga de débiles y dominio del planeta.
+- Poder: cambio de tamaño, tecnopatía, telequinesis, vuelo y proyección de energía.
+- Legado: fundador de los Cuatro Jinetes, ha resucitado varias veces a lo largo de los siglos.
+
 ## DC
 
 ### Joker
@@ -143,6 +149,14 @@ Lista de villanos emblemáticos del universo Marvel y DC, con trasfondo y motiva
 - Norman Osborn dirigió a los Vengadores Oscuros tras Civil War.
 
 ## Curiosidades 2
+
+- Magneto y Charles Xavier alguna vez fueron amigos cercanos.
+- Lex Luthor ha sido miembro de la Justice League en alguna línea temporal.
+- El Joker ha derrotado a Batman tantas veces como ha perdido.
+- Thanos respeta a Galactus por encima de todos los demás seres.
+- Norman Osborn dirigió a los Vengadores Oscuros tras Civil War.
+
+# Notas
 
 - Magneto y Charles Xavier alguna vez fueron amigos cercanos.
 - Lex Luthor ha sido miembro de la Justice League en alguna línea temporal.
