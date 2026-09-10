@@ -1,6 +1,6 @@
 ![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-blue)
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde remoto
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
@@ -73,7 +73,7 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
 
 
-## Contacto: dsikorp JD
+## Contacto: dsikorp 🎶
 
 ---
 
