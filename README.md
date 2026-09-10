@@ -73,4 +73,19 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
 
 
-## Contacto: yo
+## Contacto: dsikorp
+
+---
+
+## Badges dinámicos
+Leen datos reales del repositorio y se actualizan solos:
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/DsiKorp/02-git-legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/DsiKorp/02-git-legion-del-mal)
+![Issues](https://img.shields.io/github/issues/DsiKorp/02-git-legion-del-mal)
+![Último commit](https://img.shields.io/github/last-commit/DsiKorp/02-git-legion-del-mal)
+![Licencia](https://img.shields.io/github/license/DsiKorp/02-git-legion-del-mal)
+
+Un detalle práctico: GitHub cachea las imágenes a través de Camo, así que un badge dinámico puede tardar unos minutos en reflejar el cambio.
+
+Para forzar la actualización en clase, agrega un parámetro cualquiera al final de la URL (&cacheSeconds=60).
