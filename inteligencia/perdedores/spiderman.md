@@ -35,3 +35,13 @@
 
 **Nombre real:** Unknown  
 **Poderes:** Energía eléctrica roja, control sobre el color rojo  
+
+
+
+
+# Familiares de Spider-Man 🏠❤️
+
+**Peter Parker:** Hijo adoptivo de Spider-Man, criado por el Capitán América y el Señor Fantástico.  
+**Mary Jane Watson:** Exnovia y posible esposa de Spider-Man, periodista investigadora.  
+**Aunt May (Mayday):** Tía materna, protectora constante del orfano en Queens.
+
