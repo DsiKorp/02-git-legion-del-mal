@@ -36,8 +36,7 @@
 **Nombre real:** Unknown  
 **Poderes:** Energía eléctrica roja, control sobre el color rojo  
 
-
-
+---
 
 # Familiares de Spider-Man 🏠❤️
 
@@ -45,6 +44,7 @@
 **Mary Jane Watson:** Exnovia y posible esposa de Spider-Man, periodista investigadora.  
 **Aunt May (Mayday):** Tía materna, protectora constante del orfano en Queens.
 
+---
 
 # Películas de Spider-Man 🎬🍿
 
@@ -53,6 +53,23 @@
 - **Spider-Man** (2002) - Primer film independiente en español, dirigido por Guillermo Arriaga  
 - **Spider-Man 2: La Leyenda** (2004) - Secuela con nuevos villanos y poderes evolucionados  
 - **Spider-Man 3: La Trilogía** (2007) - Tercera parte que cambia la identidad del héroe  
-- **El Viaje del Spider-Man** (2018) - Película especial de aventuras en el espacio
+- **El Viaje del Spider-Man** (2018) - Película especial de aventuras en el espacio  
+
+---
+
+# Debilidades de Spider-Man 🏹⚠️
+
+**Veneno Tóxico:** El arácnido es altamente venenoso. Una picadura mortal para humanos sin antídoto adecuado, aunque Peter Parker ha desarrollado una resistencia parcial.  
+**Racha Psicológica:** La responsabilidad como héroe a menudo sobrecarga sus habilidades físicas y espirituales.  
+**Fragilidad Humana:** Sin traje especial o tecnología asistente, Spider-Man es físicamente limitado comparado con otros superhéroes.  
+
+---
+
+# Poderes de Spider-Man 💪🕷️
+
+**Super Agilidad:** Velocidad excepcional que le permite moverse más rápido que la luz en su hábitat natural.  
+**Fuerza Sobrenatural:** Capacidad de levantar hasta 10 toneladas sin equipo especializado.  
+**Reflejos Mejorados:** Reacción instantánea incluso ante amenazas casi invisibles.  
+**Grappling Hook:** Hilo urticante que se adhiere a cualquier superficie sólida.  
 
 ---
