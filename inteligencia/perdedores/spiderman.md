@@ -73,3 +73,5 @@
 **Grappling Hook:** Hilo urticante que se adhiere a cualquier superficie sólida.  
 
 ---
+
+# arreglo issue 12
