@@ -35,3 +35,24 @@
 
 **Nombre real:** Unknown  
 **Poderes:** Energía eléctrica roja, control sobre el color rojo  
+
+
+
+
+# Familiares de Spider-Man 🏠❤️
+
+**Peter Parker:** Hijo adoptivo de Spider-Man, criado por el Capitán América y el Señor Fantástico.  
+**Mary Jane Watson:** Exnovia y posible esposa de Spider-Man, periodista investigadora.  
+**Aunt May (Mayday):** Tía materna, protectora constante del orfano en Queens.
+
+
+# Películas de Spider-Man 🎬🍿
+
+---
+
+- **Spider-Man** (2002) - Primer film independiente en español, dirigido por Guillermo Arriaga  
+- **Spider-Man 2: La Leyenda** (2004) - Secuela con nuevos villanos y poderes evolucionados  
+- **Spider-Man 3: La Trilogía** (2007) - Tercera parte que cambia la identidad del héroe  
+- **El Viaje del Spider-Man** (2018) - Película especial de aventuras en el espacio
+
+---
