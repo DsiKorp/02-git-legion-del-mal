@@ -5,7 +5,10 @@ on: push
 jobs:
     acceso-a-la-base:
         runs-on: ubuntu-latest
-
+        defaults:
+            run:
+                shell: bash
+        # Node 24 por defecto (Node 20 deprecated) - GitHub usará la última versión estable
         steps:
             - name: El agente se llega a la fortaleza
               shell: bash
