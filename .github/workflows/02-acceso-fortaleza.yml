@@ -17,3 +17,22 @@ jobs:
                 echo ""
                 echo "❌ pero qué paso? no hay nada"
 
+            - name: Brainiac desbloquea la bóbeda
+              uses: actions/checkout@v4
+            
+            - name: Ahora si, vamos a ver los planes
+              run: |
+                echo "Buscar los archivos de la legión"
+                ls -al
+                echo ""
+                echo "✅ Funciona"
+                echo ""
+                echo "Planes:"
+                ls -al planes/
+                echo ""
+                echo "Villanos:"
+                ls -al villanos/
+                echo ""
+                echo "Inteligencia:"
+                ls -al inteligencia/
+
