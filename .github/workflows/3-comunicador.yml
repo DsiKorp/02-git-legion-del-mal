@@ -15,6 +15,10 @@ on:
           - Joker
           - Mystique
           - Brainiac
+      mensaje:
+        description: 'Mensaje para el consejo'
+        required: true
+        default: 'La misión fue un éxito 🚀'
       prioridad:
         description: "Nivel de prioridad"
         required: true
