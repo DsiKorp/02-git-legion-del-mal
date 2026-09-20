@@ -22,7 +22,7 @@ jobs:
                 echo "❌ pero qué paso? no hay nada"
 
             - name: Brainiac desbloquea la bóbeda
-              uses: actions/checkout@v4
+              uses: actions/checkout@v4 # Da acceso a los archivos del repositorio
             
             - name: Ahora si, vamos a ver los planes
               run: |
