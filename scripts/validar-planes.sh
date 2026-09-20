@@ -27,7 +27,7 @@ echo ""
 # Regla #1: Todo plan debe tener plan de escape
 # ──────────────────────────────────────────
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "📋 Regla #1: Verificando planes de escape..."
+echo "📋 Regla #1: Verificando planes de escape..." 
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 if ls planes/*.md 1>/dev/null 2>&1; then
