@@ -5,7 +5,7 @@
 # ║  Tiene un ERROR DE SINTAXIS YAML.                    ║
 # ╚══════════════════════════════════════════════════════╝
 
-name: 📡 Transmisión de emergencia
+name: 6a. 📡 Transmisión de emergencia
 on: 
   workflow_dispatch: # También se puede ejecutar manualmente para la demo en clase
 jobs:

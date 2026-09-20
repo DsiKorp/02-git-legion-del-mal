@@ -13,7 +13,7 @@
 # ║  5. Corrige el error y haz push de nuevo             ║
 # ╚══════════════════════════════════════════════════════╝
 
-name: 🔍 Escaneo de seguridad de Brainiac
+name: 🔍 6b. Escaneo de seguridad de Brainiac
 on: push
 jobs:
   escaneo:
