@@ -36,13 +36,23 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Instalar el transmisor de mensajes
+        run: |
+          echo "Instalando el transmisor de mensajes"
+          echo "=============================="
+          sudo apt-get install -y cowsay
+
       - name: Transmitiendo mensaje de los inputs del workflow
         run: |
-          echo "Transmisión de mensaje"
+          echo "Transmisión de mensaje interceptado"
           echo "=============================="
           echo ""
-          echo "Villano: ${{ inputs.villano }}"
-          echo "Mensaje: ${{ inputs.mensaje }}"
+          echo "De: ${{ inputs.villano }}"
+          echo ""
+          echo "Fecha: $(date -u +"%d-%m-%Y_%H:%M:%S UTC")"
+          echo "Mensaje:"
+          cowsay -f eyes "${{ inputs.mensaje }}"
+          echo ""
           echo "Prioridad: ${{ inputs.prioridad }}"
 
 
