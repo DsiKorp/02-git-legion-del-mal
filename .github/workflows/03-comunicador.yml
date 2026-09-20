@@ -10,7 +10,7 @@ on:
         required: true
         type: choice
         options:
-          - Lex Lithor
+          - Lex Luthor
           - Magneto
           - Joker
           - Mystique
@@ -36,7 +36,14 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Transmitiendo mensaje de los inputs del workflow
+        run: |
+          echo "Transmisión de mensaje"
+          echo "=============================="
+          echo ""
+          echo "Villano: ${{ inputs.villano }}"
+          echo "Mensaje: ${{ inputs.mensaje }}"
+          echo "Prioridad: ${{ inputs.prioridad }}"
+
 
 
